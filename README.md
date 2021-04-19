@@ -36,6 +36,13 @@ users, globally, to lend their computational power for those who need it.
 ![alt text](https://github.com/Bhavya1705/CrypED/blob/main/Workflow.jpeg)
 ## Benefits
 ![alt text](https://github.com/Bhavya1705/CrypED/blob/main/Benefits.jpeg)
+### User Interface
+#### Miner
+![alt text](https://github.com/Bhavya1705/CrypED/blob/main/UserInterface/Miner.mp4)
+#### Client
+![alt text](https://github.com/Bhavya1705/CrypED/blob/main/UserInterface/client.mp4)
+#### Donor
+![alt text](https://github.com/Bhavya1705/CrypED/blob/main/UserInterface/DonorApp.mp4)
 ### Team YoungMinds
 #### 1. Sankar Behera 
 <img src="https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/SankarBehara.jpg" width="100" height="100">
