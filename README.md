@@ -36,7 +36,7 @@ users, globally, to lend their computational power for those who need it.
 ![alt text](https://github.com/Bhavya1705/CrypED/blob/main/Workflow.jpeg)
 ## Benefits
 ![alt text](https://github.com/Bhavya1705/CrypED/blob/main/Benefits.jpeg)
-### Team - ‘YoungMinds’
+### Team YoungMinds
 #### 1. Sankar Behera 
 Team Captain <br/>
 Software Engineering <br/>
