@@ -38,11 +38,13 @@ users, globally, to lend their computational power for those who need it.
 ![alt text](https://github.com/Bhavya1705/CrypED/blob/main/Benefits.jpeg)
 ### Team YoungMinds
 #### 1. Sankar Behera 
+<img src="https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/SankarBehara.jpg" width="100" height="100">
 Team Captain <br/>
 Software Engineering <br/>
 Business Modelling <br/>
+
 #### 2. Bhavya Bhardwaj 
-<img src="https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/IMG-20190526-WA0005.jpg" width="100" height="100">
+<img src="https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/b2.jpg" width="100" height="100">
 Software Engineering <br/>
 SME – Blockchain <br/>
 Data Analytics <br/>
@@ -53,5 +55,6 @@ UI/UX Designer <br/>
 Presenter/Media <br/>
 
 #### 4. Aurea Rose 
+<img src="https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/AureaRose.jpg" width="100" height="100">
 Project Manager <br/>
 Documentation <br/>
