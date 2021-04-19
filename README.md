@@ -1,8 +1,9 @@
 # CrypED
-A Cryptomining based approach to Education 
+A Cryptomining based approach to Education <br/>
 Documentation: https://github.com/Bhavya1705/CrypED/blob/main/UN%20Hack.pdf
 ## EduConnect
-Cryptocurrency Based Computational Power for Education Programmes
+Cryptocurrency Based Computational Power for Education Programmes (Powered by Oracle BlockChain and Analytics.)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idc.com%2Fwe%2Fevents%2F68072-idc-oracle-webinar&psig=AOvVaw1gv6YF1f0UbQ467K7Ihzm_&ust=1618915805905000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICGzr-RivACFQAAAAAdAAAAABAD)
 ### Challenge Category: SDG4 - ‘Quality Education’
 Our idea has successfully incorporated all the seven outcome targets under
 Sustainable Development Goal for Quality Education (SDG 4) by the effective
