@@ -46,6 +46,7 @@ Engineering
 SME – Blockchain
 Data Analytics
 #### 3. Mohammad Hamdaan 
+![alt text](https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/Hamdaan.jpeg)
 UI/UX Designer
 Presenter/Media
 #### 4. Aurea Rose 
