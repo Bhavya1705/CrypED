@@ -1,5 +1,6 @@
 # CrypED
 A Cryptomining based approach to Education 
+Documentation: https://github.com/Bhavya1705/CrypED/blob/main/UN%20Hack.pdf
 ## EduConnect
 Cryptocurrency Based Computational Power for Education Programmes
 ### Challenge Category: SDG4 - ‘Quality Education’
