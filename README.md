@@ -46,10 +46,12 @@ Business Modelling <br/>
 Software Engineering <br/>
 SME – Blockchain <br/>
 Data Analytics <br/>
+
 #### 3. Mohammad Hamdaan
 <img src="https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/Hamdaan.jpeg" width="100" height="100">
 UI/UX Designer <br/>
 Presenter/Media <br/>
+
 #### 4. Aurea Rose 
 Project Manager <br/>
 Documentation <br/>
