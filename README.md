@@ -45,8 +45,8 @@ Business Modelling
 Engineering 
 SME – Blockchain
 Data Analytics
-#### 3. Mohammad Hamdaan 
-![alt text](https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/Hamdaan.jpeg)
+#### 3. Mohammad Hamdaan
+<img src="https://github.com/Bhavya1705/CrypED/blob/main/TeamMembers/Hamdaan.jpeg" width="100" height="100">
 UI/UX Designer
 Presenter/Media
 #### 4. Aurea Rose 
