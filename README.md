@@ -3,7 +3,7 @@ A Cryptomining based approach to Education <br/>
 Documentation: https://github.com/Bhavya1705/CrypED/blob/main/UN%20Hack.pdf
 ## EduConnect
 Cryptocurrency Based Computational Power for Education Programmes (Powered by Oracle BlockChain and Analytics.)
-![alt text](https://github.com/Bhavya1705/CrypED/blob/main/UserInterface/Oracle.png)
+<img src="https://github.com/Bhavya1705/CrypED/blob/main/UserInterface/Oracle.png" width="200" height="100">
 ### Challenge Category: SDG4 - ‘Quality Education’
 Our idea has successfully incorporated all the seven outcome targets under
 Sustainable Development Goal for Quality Education (SDG 4) by the effective
